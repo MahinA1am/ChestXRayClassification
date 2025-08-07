@@ -126,5 +126,4 @@ This project is open-sourced under the MIT License.
 👨‍💻 Author
 Mahin Alam
 Built using deep learning and real-world diagnostic challenges.
-    ├── Normal/images, masks/
-    └── Viral Pneumonia/images, masks/
+
